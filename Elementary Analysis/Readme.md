@@ -35,6 +35,7 @@ The folder contains the results of the elementarty analysis for 3 GPU.
 ### Rack
 
 📁 Rack - Rack populated with its components, except for the GPU cards
+
 📁 Rack casing
 
 ⚠️ No Heatsink
