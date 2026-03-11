@@ -1,14 +1,17 @@
 # GPU Embedded Environmental Impacts data
 
-## Description
-
 This repository compiles all data created as part of the alt-impact project (ADEME, CNRS, INRIA) on the environmental impacts of graphics cards (GPUs) used in AI applications. 
 
 📕 [Read the full report](TBD) 📕
+⚙️ [Access the GPU embedded impacts calculator](https://data.hubblo.org/gpu) ⚙️
 
 ## Repository organisaiton
 
+📁 LCA data/
+Contains the raw and processed data used to conduct the Life Cycle Assessment (LCA) of 8 GPUs and 1 GPU rack.
 
+📁 Elementary Analysis/
+Contains the results of the elementarty analysis for 3 GPU.
 
 ## Research partners and acknowledgments
 
