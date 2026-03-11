@@ -3,7 +3,10 @@
 This repository compiles all data created as part of the alt-impact project (ADEME, CNRS, INRIA) on the environmental impacts of graphics cards (GPUs) used in AI applications. 
 
 📕 [Read the full report](TBD) 📕
+
 ⚙️ [Access the GPU embedded impacts calculator](https://data.hubblo.org/gpu) ⚙️
+
+📰 [Read the academic article](https://arxiv.org/abs/2509.00093) 📰
 
 ## Repository organisaiton
 
