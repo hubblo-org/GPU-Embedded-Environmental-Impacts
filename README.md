@@ -8,6 +8,13 @@ This repository compiles all data created as part of the alt-impact project (ADE
 
 📰 [Read the academic article](https://arxiv.org/abs/2509.00093) 📰
 
+
+
+
+<img width="1938" height="1192" alt="gpu_sketch-v2 (1)" src="https://github.com/user-attachments/assets/7909bb36-bf6e-42ce-9585-60985874251e" />
+
+
+
 ## Repository organisaiton
 
 📁 LCA data/
