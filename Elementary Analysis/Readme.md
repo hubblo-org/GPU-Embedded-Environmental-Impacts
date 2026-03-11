@@ -26,9 +26,11 @@ The folder contains the results of the elementarty analysis for 3 GPU.
 
 📁 CPU - Grace CPU on the card
 
-📁 Card Casing
+📁 Casing
 
-📁 Card PCB - PCB populated with its components, except for the GPU, CPU and VRAM
+📁 SXM connectors - 2 SXM connectors on the card
+
+📁 PCB - PCB populated with its components, except for SXM connectors, the GPU, CPU and VRAM
 
 ⚠️ No Heatsink
 
