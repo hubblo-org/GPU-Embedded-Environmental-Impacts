@@ -8,9 +8,11 @@ This repository compiles all data created as part of the alt-impact project (ADE
 ## Repository organisaiton
 
 📁 LCA data/
+
 Contains the raw and processed data used to conduct the Life Cycle Assessment (LCA) of 8 GPUs and 1 GPU rack.
 
 📁 Elementary Analysis/
+
 Contains the results of the elementarty analysis for 3 GPU.
 
 ## Research partners and acknowledgments
