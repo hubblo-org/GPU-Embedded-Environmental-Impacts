@@ -1,6 +1,6 @@
 # GPU Embedded Environmental Impacts data
 
-This repository compiles all data created as part of the alt-impact project (ADEME, CNRS, INRIA) on the environmental impacts of graphics cards (GPUs) used in AI applications. 
+This repository compiles all data created as part of the alt-impact project (ADEME, CNRS, INRIA) on the environmental impacts of graphics cards (GPUs) used in AI applications. It has been created by [TIDE](https://www.linkedin.com/company/tide-env/posts/?feedView=all) (Etienne Lees-Perasso) and Hubblo.
 
 📕 [Read the full report](TBD) 📕
 
